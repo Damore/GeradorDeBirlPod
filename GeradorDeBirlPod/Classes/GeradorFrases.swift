@@ -67,7 +67,7 @@ let leros = [
 
 public class GeradorFrases {
     
-    class func geradorLeroLero() -> String {
+   public class func geradorLeroLero() -> String {
         let posicao0 = leros[0][Int(arc4random_uniform(UInt32(leros[0].count)))]
         let posicao1 = leros[1][Int(arc4random_uniform(UInt32(leros[1].count)))]
         let posicao2 = leros[2][Int(arc4random_uniform(UInt32(leros[2].count)))]
