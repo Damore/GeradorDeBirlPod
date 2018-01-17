@@ -1,0 +1,22 @@
+{
+  "name": "GeradorDeBirlPod",
+  "version": "0.1.0",
+  "summary": "A short description of GeradorDeBirlPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/IgorClemente/GeradorDeBirlPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IgorClemente": "damore82@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/IgorClemente/GeradorDeBirlPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GeradorDeBirlPod/Classes/**/*"
+}

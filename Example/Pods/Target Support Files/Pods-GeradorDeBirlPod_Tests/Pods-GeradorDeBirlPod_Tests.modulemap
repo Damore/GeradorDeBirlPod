@@ -1,0 +1,6 @@
+framework module Pods_GeradorDeBirlPod_Tests {
+  umbrella header "Pods-GeradorDeBirlPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

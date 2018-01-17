@@ -1,0 +1,16 @@
+PODS:
+  - GeradorDeBirlPod (0.1.0)
+
+DEPENDENCIES:
+  - GeradorDeBirlPod (from `../`)
+
+EXTERNAL SOURCES:
+  GeradorDeBirlPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GeradorDeBirlPod: 77e9f9b14ef2dcce8df7873304029de59a85f205
+
+PODFILE CHECKSUM: a4e2a64ffdbb5b28a28b11014a92266c4dd6e4c5
+
+COCOAPODS: 1.3.1

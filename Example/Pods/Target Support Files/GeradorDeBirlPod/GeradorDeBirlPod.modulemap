@@ -1,0 +1,6 @@
+framework module GeradorDeBirlPod {
+  umbrella header "GeradorDeBirlPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
