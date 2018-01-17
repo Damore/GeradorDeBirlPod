@@ -22,7 +22,7 @@ pod 'GeradorDeBirlPod'
 
 ## Author
 
-IgorClemente, damore82@hotmail.com
+Damore, damore82@hotmail.com
 
 ## License
 
