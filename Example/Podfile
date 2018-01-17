@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GeradorDeBirlPod_Example' do
+  pod 'GeradorDeBirlPod', :path => '../'
+
+  target 'GeradorDeBirlPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
